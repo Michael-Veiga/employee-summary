@@ -11,6 +11,7 @@
 - [Contributors](#Contributors)
 - [Testing](#Testing)
 - [Questions](#Questions)
+- [Instructional Media](#Instructional-Media)
 
 ## Description
 
