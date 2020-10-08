@@ -2,6 +2,13 @@
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)
 
+## Table of Contents
+- [Description](#Description)
+- [Acceptance Criteria](#Acceptance-Criteria)
+- [Summary](#Summary)
+- [Example Gif](#Example-Gif)
+
+
 ## Description
 
 This is a software engineering team generator command line application. The application will prompt the user for information about the team members. The user can input any number of team members, and they may be a mix of managers, interns and engineers. The application then creates an html page with all previously inputed team members.
