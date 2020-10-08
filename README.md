@@ -45,5 +45,10 @@ Michael Veiga
 mvee333@gmail.com
 
 ## Instructional-Media
+<p>Command Line Input Example</p>
 
-![GifOfApp](https://github.com/Michael-Veiga/employee-summary/blob/master/Develop/Images/employee-sum-gif.gif?raw=true)
+![GifOfCli](https://github.com/Michael-Veiga/employee-summary/blob/master/Develop/Images/employee-sum-gif.gif?raw=true)
+
+<p>HTML Output Example</p>
+
+![GifofHTML](https://media.giphy.com/media/KKTZ7TuXsCsUi28SNK/giphy.gif)
