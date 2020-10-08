@@ -45,6 +45,6 @@ Michael Veiga
 
 mvee333@gmail.com
 
-## Insturctional Media
+## Instructional-Media
 
 ![GifOfApp](https://github.com/Michael-Veiga/employee-summary/blob/master/Develop/Images/employee-sum-gif.gif?raw=true)
