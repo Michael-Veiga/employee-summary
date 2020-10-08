@@ -32,8 +32,6 @@ ISC
 
 ## Contributors
 
-![Image of contributor](https://avatars2.githubusercontent.com/u/61660025?v=4)
-
 Michael Veiga
 
 ## Testing
